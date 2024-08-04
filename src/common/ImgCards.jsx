@@ -11,7 +11,7 @@ const ImgCards = () => {
 
     return (
         <div className="container">
-            <div className="row">
+            <div className="row" >
                 <div className="row row-cols-3">
                     {imgList.map(each =>
                         <div key={each} className="col p-2 img-container">

@@ -4,8 +4,8 @@ import '../../style/projects.scss'
 
 const Projects = () => {
     return (
-        <div>
-            <div className=''><span className='page-header'>PROJECTS</span></div>
+        <div className='project-page'>
+            <div className='container'><span className='page-header'>PROJECTS</span></div>
             <ImgCards />
         </div>
     )
