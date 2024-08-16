@@ -20,32 +20,32 @@ const HomePage = () => {
                     <div className="row">
                         <div className="col-md-4 mb-3">
                             <label htmlFor="validationDefault01">Name</label>
-                            <input type="text" className="form-control" id="validationDefault01" placeholder="First name" value="Mark" />
+                            <input type="text" className="form-control" id="validationDefault01" placeholder="First name" />
                         </div>
                         <div className="col-md-4 mb-3">
                             <label htmlFor="validationDefault02">Company</label>
-                            <input type="text" className="form-control" id="validationDefault02" placeholder="Last name" value="Otto" />
+                            <input type="text" className="form-control" id="validationDefault02" placeholder="Last name" />
                         </div>
                     </div>
 
                     <div className="row">
                         <div className="col-md-4 mb-3">
-                            <label htmlFor="validationDefault01">Name</label>
-                            <input type="text" className="form-control" id="validationDefault01" placeholder="First name" value="Mark" />
+                            <label htmlFor="validationDefault01">Phone</label>
+                            <input type="text" className="form-control" id="validationDefault01" placeholder="1234567890" />
                         </div>
                         <div className="col-md-4 mb-3">
-                            <label htmlFor="validationDefault02">Company</label>
-                            <input type="text" className="form-control" id="validationDefault02" placeholder="Last name" value="Otto" />
+                            <label htmlFor="validationDefault02">Email</label>
+                            <input type="text" className="form-control" id="validationDefault02" placeholder="samuel@mail.com" />
                         </div>
                     </div>
                     <div className="row">
                         <div className="col-md-4 mb-3">
-                            <label htmlFor="validationDefault01">Name</label>
-                            <input type="text" className="form-control" id="validationDefault01" placeholder="First name" value="Mark" />
+                            <label htmlFor="validationDefault01">Date</label>
+                            <input type="text" className="form-control" id="validationDefault01" placeholder="Date" />
                         </div>
                         <div className="col-md-4 mb-3">
-                            <label htmlFor="validationDefault02">Company</label>
-                            <input type="text" className="form-control" id="validationDefault02" placeholder="Last name" value="Otto" />
+                            <label htmlFor="validationDefault02">Select</label>
+                            <input type="text" className="form-control" id="validationDefault02" placeholder="Select Service" />
                         </div>
                     </div>
                     <div className="row">
